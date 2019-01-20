@@ -11,9 +11,15 @@ Because the network is intialized with random wieghts, it is possible that the f
 Video showing a trained agent here: https://youtu.be/LB6OMTc2dFM
 
 Uses:
+
 Numpy
+
 Scipy
+
 openAI retro
+
 openAI baselines
+
 sonic_util.py (https://github.com/openai/retro-baselines/blob/master/agents/sonic_util.py)
+
 pytorch
